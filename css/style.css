@@ -13,11 +13,7 @@ body {
   top: 0;
   left: 0;
   }
-
-
-
  /* Style the navigation menu */
-
  .topnav {
   overflow: hidden;
   position: absolute;
@@ -54,11 +50,9 @@ body {
 
 
 /* Add a grey background color on mouse-over */
-
-
 .topnav a:hover {
 }
-
+   
 #narration {
   position: absolute;
   top: 203px;
