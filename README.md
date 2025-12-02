@@ -7,7 +7,7 @@ Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overl
 </p>
 
 ## Live links (replace with your own)
-- Leaflet Map https://gabrielcalarco.github.io/lazarillociegoscaminantes-itinerario/
+- Leaflet Map https://hdlab.space/lazarillociegoscaminantes-itinerario/
 - Google Sheets template https://docs.google.com/spreadsheets/d/1m7uMkvuKcgv7ERoXjtUj-vFc1dvPmG-4e_EtUKpPpfg/edit?gid=0#gid=0
 
 ## Create Your Own
